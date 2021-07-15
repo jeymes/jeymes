@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jeymes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jeymes/jeymes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋Oi sou @jeymes 
+👀 Estou interessado em Trabalhar com uma empresa que me ajude e me ensina mas de programação e desenvolvimento
+🌱 Atualmente estou aprendendo HTML e JAVACRIP
+💞️ Estou procurando colaborar em um futuro mas inovador e progressivo
+📫 Como posso encontrar WhatsApp: 11970754259, Email: jsvpn2017@gmail.com
