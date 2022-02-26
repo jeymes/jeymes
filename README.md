@@ -16,6 +16,7 @@
   <img align="center" alt="jeymes-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="jeymes-VsCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="jeymes-Jira" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+  <img align="right" alt="jeymes-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif">
 
 </div>
  
