@@ -3,9 +3,7 @@
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeymes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeymes&layout=compact&langs_count=7&theme=gotham"/>
-    <div>
-    <h3>Tecnologias</h3>
-  </div>
+   
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="jeymes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +13,9 @@
   <img align="center" alt="jeymes-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="jeymes-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="jeymes-VsCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="jeymes-Jira" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+  <img align="center" alt="jeymes-Jira" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+  <img align="center" alt="jeymes-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="jeymes-StyledComponens" height="30" width="40" src="https://styled-components.com/logo.png" />
   <img align="right" alt="jeymes-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif">
 
 </div>
