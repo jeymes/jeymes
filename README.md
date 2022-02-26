@@ -1,6 +1,6 @@
 ## Olá eu sou o Jeymes Sousa, Desenvolverdor Front-End!
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/jeymes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeymes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeymes&layout=compact&langs_count=7&theme=gotham"/>
    
