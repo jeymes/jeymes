@@ -21,6 +21,7 @@
 
 <code>![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</code> &nbsp;&nbsp;
 <code>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) </code> &nbsp;&nbsp;
+<code>![React](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) </code> &nbsp;&nbsp;
 <code>![React](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) </code> &nbsp;&nbsp;
 
 ### Languages
