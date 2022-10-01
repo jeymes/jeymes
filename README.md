@@ -27,7 +27,7 @@
 ### Languages
 
 <code>![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</code> &nbsp;&nbsp;
-<code>![Javascript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)</code> &nbsp;&nbsp;
+<code>![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</code>  &nbsp;&nbsp;
 
 ### Deploy
 
