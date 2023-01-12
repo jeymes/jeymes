@@ -3,10 +3,6 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jeymes+Sousa;I'm+21+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 #
-<div align="center">
-  <a href="https://github.com/jeymes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeymes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeymes&layout=compact&langs_count=7&theme=gotham"/>
    
 </div>
   <div style="display: inline_block"><br>
