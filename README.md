@@ -1,13 +1,8 @@
 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jeymes+Sousa;I'm+22+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jeymes+Sousa;I'm+22+years+old;I+from+Barras,+PI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 #
-   
-# 💫 About Me:
-Tenho 22 anos, moro em Barras/Pi faço faculdade de Análise de desenvolvimento de sistemas atualmente no 3.º semestre, sou desenvolvedor front-end com habilidades sólidas em HTML, CSS, JavaScript e TypeScript, bem como experiência em frameworks como React.js e React Native.<br><br>Habilidade em trabalhar com bibliotecas de estilo como Styled Components para criar interfaces de usuário atraentes e responsivas, experiência profissional como estagiário de desenvolvimento front-end na Palmtree, onde aprendi sobre metodologias ágeis de desenvolvimento de software.<br><br>Comprometido em desenvolver minha carreira na área de desenvolvimento de software e sempre em busca de novos desafios.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jeymessousa.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jemerson-sousa-0a595019a/) 
 
